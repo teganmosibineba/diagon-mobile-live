@@ -28,10 +28,16 @@
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Your app needs access to your media library to upload and share photos and videos with your friends and family.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Our app uses Face ID for secure and convenient authentication. By scanning your face, Face ID allows you to quickly and easily access your account, ensuring that only you can log in. </string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>In order to show you your right currency value, this app needs to access your country location.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>This app needs access to location when open in order to show you your currency value.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app requires access to your device's microphone to enable audio recording and voice input features. We use the microphone to provide seamless audio experiences and enhance the functionality of the app</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
